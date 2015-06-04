@@ -1,6 +1,6 @@
 {
 	"name": "fixed",
-	"version": "0.1.0",
+	"version": "0.0.2",
 	"description": "Generates & parses fixed width records against a JSON spec",
 	"homepage": "https://github.com/cuvva/fixed",
 	"bugs": "https://github.com/cuvva/fixed/issues",
@@ -18,6 +18,11 @@
 	"scripts": {
 		"test": "tape test/index.js",
 		"test-travis": "istanbul cover test/index.js --report lcovonly"
+	},
+
+	"dependencies": {
+		"clone": "^1.0.2",
+		"speed-date": "^0.2.0"
 	},
 
 	"devDependencies": {
