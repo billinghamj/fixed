@@ -1,6 +1,6 @@
 {
 	"name": "fixed",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Generates & parses fixed width records against a JSON spec",
 	"homepage": "https://github.com/cuvva/fixed",
 	"bugs": "https://github.com/cuvva/fixed/issues",
