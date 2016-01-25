@@ -2,8 +2,8 @@
 	"name": "fixed",
 	"version": "0.1.0",
 	"description": "Generates & parses fixed width records against a JSON spec",
-	"homepage": "https://github.com/cuvva/fixed",
-	"bugs": "https://github.com/cuvva/fixed/issues",
+	"homepage": "https://github.com/billinghamj/fixed",
+	"bugs": "https://github.com/billinghamj/fixed/issues",
 
 	"license": "MIT",
 	"author": "James Billingham <james@jamesbillingham.com> (http://jamesbillingham.com)",
@@ -12,7 +12,7 @@
 
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cuvva/fixed.git"
+		"url": "https://github.com/billinghamj/fixed.git"
 	},
 
 	"dependencies": {
