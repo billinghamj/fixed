@@ -1,6 +1,6 @@
 {
 	"name": "fixed",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "Generates & parses fixed width records against a JSON spec",
 	"homepage": "https://github.com/billinghamj/fixed",
 	"bugs": "https://github.com/billinghamj/fixed/issues",
